@@ -1,0 +1,5 @@
+# Lock the .secrets folder
+git crypt lock
+
+# Unlock the .secrets folder
+git crypt unlock
